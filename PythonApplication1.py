@@ -7,6 +7,5 @@ def main():
     plt.plot(x, np.cos(x), 'b')
     plt.show()
     print("GooD")
-    print("GooDDDDDD")
 
 main()
