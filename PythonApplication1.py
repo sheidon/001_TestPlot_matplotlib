@@ -6,6 +6,5 @@ def main():
     x = np.arange(0, radians(1800), radians(12))
     plt.plot(x, np.cos(x), 'b')
     plt.show()
-    print("GooD")
 
 main()
